@@ -487,7 +487,7 @@ jobs:
 
   macos:
     name: MacOS
-    runs-on: macos-26
+    runs-on: macos-14
     needs:
       - generate_matrix
       - linux
