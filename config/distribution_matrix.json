@@ -61,7 +61,7 @@
     "include": [
       {
         "duckdb_arch": "windows_amd64",
-        "runner": "windows-latest",
+        "runner": "windows-2022",
         "vcpkg_target_triplet": "x64-windows-static-release",
         "vcpkg_host_triplet": "x64-windows-static-release",
         "run_in_reduced_ci_mode": true,
